@@ -1,5 +1,5 @@
 # Sound Recipe Android - Startup Context
-**Last Updated:** March 1, 2026
+**Last Updated:** March 3, 2026
 
 ## Working Directories
 
@@ -29,8 +29,9 @@ Open Claude from:
 Then say something like:
 "Hey Claude, read the ClaudeMemory folder to get context on where we left off with Sound Recipe Android"
 
-## Current Status (as of March 1, 2026)
-- Samsung Galaxy phone set up with Developer Mode + USB Debugging
-- Android Studio installed on Mac
-- Project folder created, but no Android Studio project yet
-- Next step: Create Android Studio project and run Hello World
+## Current Status (as of March 3, 2026)
+- Android Studio project created (Jetpack Compose, Kotlin)
+- App deployed to Samsung Galaxy A35 (Android 16, One UI 8)
+- Welcome screen with Sound Recipe logo and text
+- App launcher icon set to Sound Recipe logo
+- Next step: Start porting iOS features (Spotify input, email validation, Firebase backend)
